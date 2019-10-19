@@ -1,7 +1,7 @@
 # VeriMadenciligi-Siniflandirma-EnYakin-K-Komsu-Uygulamasi
 
 Bu Uygulama Python programlama dilinin 3.7 versiyonu ile geliştirilmiştir.
-Veri tabanı yöneticisi olarak wamp server kullanılmıştır. Veriler wamp server ortamı ile "mySQL" kullanılarak işlenmiştir.7
+Veri tabanı yöneticisi olarak wamp server kullanılmıştır. Veriler wamp server ortamı ile "mySQL" kullanılarak işlenmiştir.
 
 En YAKIN K-Komşu Algoritması: Bu yöntem, sınıfları belli olan bir örnek kümesndeki gözlem değerlerinde yararlanarak
 örneğe katılacak yeni bir gözlemin hangi sınıfa ait olduğunu belirlemek amacı ile kullanılır.
