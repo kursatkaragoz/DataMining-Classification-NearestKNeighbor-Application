@@ -1,4 +1,4 @@
-# VeriMadenciligi-Siniflandirma-EnYakin-K-Komsu-Uygulamasi
+# VeriMadenciligi-Sınıflandırma-EnYakin-K-Komsu-Uygulamasi
 
 Bu Uygulama Python programlama dilinin 3.7 versiyonu ile geliştirilmiştir.
 Veri tabanı yöneticisi olarak wamp server kullanılmıştır. Veriler wamp server ortamı ile "mySQL" kullanılarak işlenmiştir.
