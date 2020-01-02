@@ -12,4 +12,4 @@ Uzaklıkların hesaplanmasında ve j noktaları için öklid uzaklık formulü k
 
 Uygulamanın süreç olarak nasıl işlediği ve ya herhangi bir noktada yardım gerektiğinde "Rapor.docx" kullanıma sunulmuştur.
 
-BU UYGULAMADA K EN YAKIN KOMSU ALGORİTMASI UYGULANDIKTAN SONRA AĞIRLIK OYLAMA ALGORİTMASIDA UYGULANABİLMEKTEDİR.
+BU UYGULAMADA K EN YAKIN KOMSU ALGORİTMASI UYGULANDIKTAN SONRA SINIF BELİRLEME AŞAMASINDA AĞIRLIK OYLAMA'DA KULLANILABİLMEKTEDİR.
